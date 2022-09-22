@@ -1,8 +1,8 @@
 # Lesson25
 Lesson25 OpenGL (from NeHe)
 
-Vous trouverez dans le sommaire ci-dessous les explication vous permmettant de régénérer cette application illustrant un des concepts d'OpenGL :
-la gén ération de "Morphing Points" (en provenance du site NeHe). 
+Vous trouverez dans le sommaire ci-dessous les explication vous permettant de régénérer cette application illustrant un des concepts d'OpenGL :
+la génération de "Morphing Points" (en provenance du site NeHe). 
 
 ## Table of contents
 
